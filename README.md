@@ -26,7 +26,7 @@
 
 <br/>
 
-## <p align="center">✦ &nbsp; About Me &nbsp; ✦</p>
+<h2 align="center">✦ &nbsp; About Me &nbsp; ✦</h2>
 
 <p align="center">
   I am a Information Technology student with a deep focus on <strong>Web Development</strong> and <strong>Web Development</strong>. I believe that great technology is not just functional — it is<br/>
@@ -42,7 +42,7 @@
 
 <br/>
 
-## <p align="center">✦ &nbsp; Tech Stack &nbsp; ✦</p>
+<h2 align="center">✦ &nbsp; Tech Stack &nbsp; ✦</h2>
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 <br/>
 
-## <p align="center">✦ &nbsp; GitHub Analytics &nbsp; ✦</p>
+## <h2 align="center">✦ &nbsp; GitHub Analytics &nbsp; ✦</h2>
 
 <picture>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
@@ -88,7 +88,7 @@
 
 <br/>
 
-## <p align="center">✦ &nbsp; Contribution &nbsp; ✦</p>
+## <h2 align="center">✦ &nbsp; Contribution &nbsp; ✦</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/github-contribution-grid-snake-dark.svg" />
@@ -102,7 +102,7 @@
 
 <br/>
 
-## <p align="center">✦ &nbsp; Connect With Me &nbsp; ✦</p>
+## <h2 align="center">✦ &nbsp; Connect With Me &nbsp; ✦</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/chaterineeklesia">
@@ -151,8 +151,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-
-###
