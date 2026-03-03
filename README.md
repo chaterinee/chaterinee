@@ -2,35 +2,22 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Human--Computer%20Interaction-c9a0a0?style=flat-square&labelColor=f5eded&color=c9a0a0" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-c9a0a0?style=flat-square&labelColor=f5eded&color=c9a0a0" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Passion-UI%2FUX%20%26%20System%20Design-b89090?style=flat-square&labelColor=f5eded&color=b89090" />
+  <img src="https://img.shields.io/badge/Passion-Still%20Looking-b89090?style=flat-square&labelColor=f5eded&color=b89090" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Goal-Woman%20Leader%20in%20Tech-a07878?style=flat-square&labelColor=f5eded&color=a07878" />
+  <img src="https://img.shields.io/badge/Goal-Unlimited%20Money-a07878?style=flat-square&labelColor=f5eded&color=a07878" />
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
 </p>
-
-<br/>
-
-<p align="center">
-  <b style="font-size:26px;">✦ About Me ✦</b>
-</p>
+<h2 align="center">✦ &nbsp; About Me &nbsp; ✦</h2>
 
 <p align="center">
-  I am a Information Technology student with a deep focus on <strong>Web Development</strong> and <strong>Web Development</strong>. I believe that great technology is not just functional — it is<br/>
-  thoughtful, accessible, and human-centered. I approach every project with precision,<br/>
-  calm confidence, and a commitment to meaningful design decisions.
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
+  An Information Technology student at the Faculty of Computer Science and Information Technology, Universitas Sumatera Utara. 
+  I enjoy discovering new perspectives, learning beyond the classroom, and expanding my knowledge in the world of technology. 
+  As an IT enthusiast, I am driven by curiosity and the desire to continuously improve — without ever losing the excitement to learn.
 </p>
 
 <br/>
@@ -49,27 +36,14 @@
 <img src="https://skillicons.dev/icons?i=github,vscode,mysql" />
 
 <br/>
-
 </div>
-
 
 ## <h2 align="center">✦ &nbsp; GitHub Analytics &nbsp; ✦</h2>
 
 [![Chaterine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaterinee)](https://github.com/chaterinee/github-readme-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaterinee&show_icons=true&theme=radical">
-</p>  
-  <br/>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=chaterinee&theme=soft-green&hide_border=true&background=FDF6F0&ring=C49A9A&fire=B07D7D&currStreakLabel=9B6B6B&sideLabels=9B6B6B&dates=A08080&border_radius=12" width="60%"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
