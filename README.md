@@ -71,15 +71,13 @@
 
 ## <h2 align="center">✦ &nbsp; GitHub Analytics &nbsp; ✦</h2>
 
-<picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
-</picture>
+[![Chaterine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaterinee)](https://github.com/chaterinee/github-readme-stats)
 
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaterineeklesia&theme=soft-green&hide_border=true&background=FDF6F0&ring=C49A9A&fire=B07D7D&currStreakLabel=9B6B6B&sideLabels=9B6B6B&dates=A08080&border_radius=12" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=chaterinee&theme=soft-green&hide_border=true&background=FDF6F0&ring=C49A9A&fire=B07D7D&currStreakLabel=9B6B6B&sideLabels=9B6B6B&dates=A08080&border_radius=12" width="60%"/>
 </p>
 
 <br/>
@@ -111,7 +109,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Chaterine%20Eklesia-c9a0a0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=b07d7d" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/chaterineeklesia">
+  <a href="https://instagram.com/chaterinetyrs">
     <img src="https://img.shields.io/badge/Instagram-@chaterineeklesia-c9a0a0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b07d7d" />
   </a>
 </p>
@@ -123,8 +121,10 @@
 </p>
 
 <picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+  source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph-dark.svg">
 </picture>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chaterinee.chaterinee&"  />
 </div>
@@ -137,19 +137,4 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
