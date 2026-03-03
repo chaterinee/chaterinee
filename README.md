@@ -20,8 +20,6 @@
   As an IT enthusiast, I am driven by curiosity and the desire to continuously improve — without ever losing the excitement to learn.
 </p>
 
-<br/>
-
 <h2 align="center">✦ &nbsp; Tech Stack &nbsp; ✦</h2>
 
 <div align="center">
@@ -35,7 +33,6 @@
 ### 🛠 Tools
 <img src="https://skillicons.dev/icons?i=github,vscode,mysql" />
 
-<br/>
 </div>
 
 ## <h2 align="center">✦ &nbsp; GitHub Analytics &nbsp; ✦</h2>
@@ -45,8 +42,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chaterinee&theme=soft-green&hide_border=true&background=FDF6F0&ring=C49A9A&fire=B07D7D&currStreakLabel=9B6B6B&sideLabels=9B6B6B&dates=A08080&border_radius=12" width="60%"/>
 </p>
-
-<br/>
 
 ## <h2 align="center">✦ &nbsp; Connect With Me &nbsp; ✦</h2>
 
@@ -62,8 +57,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chaterinee.chaterinee&"  />
 </div>
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradientColor=a88483,bfa2a1&height=2&section=header" width="60%"/>
