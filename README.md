@@ -26,7 +26,9 @@
 
 <br/>
 
-<h2 align="center">✦ &nbsp; About Me &nbsp; ✦</h2>
+<p align="center">
+  <b style="font-size:26px;">✦ About Me ✦</b>
+</p>
 
 <p align="center">
   I am a Information Technology student with a deep focus on <strong>Web Development</strong> and <strong>Web Development</strong>. I believe that great technology is not just functional — it is<br/>
