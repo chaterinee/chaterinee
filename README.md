@@ -73,12 +73,16 @@
 
 [![Chaterine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaterinee)](https://github.com/chaterinee/github-readme-stats)
 
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaterinee&show_icons=true&theme=radical">
+</p>  
+  <br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chaterinee&theme=soft-green&hide_border=true&background=FDF6F0&ring=C49A9A&fire=B07D7D&currStreakLabel=9B6B6B&sideLabels=9B6B6B&dates=A08080&border_radius=12" width="60%"/>
 </p>
+
+
 
 <br/>
 
@@ -105,12 +109,12 @@
 ## <h2 align="center">✦ &nbsp; Connect With Me &nbsp; ✦</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/chaterineeklesia">
-    <img src="https://img.shields.io/badge/LinkedIn-Chaterine%20Eklesia-c9a0a0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=b07d7d" />
+  <a href="https://instagram.com/chaterinetyrs">
+    <img src="https://img.shields.io/badge/Instagram-@chaterinetyrs-c9a0a0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b07d7d" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/chaterinetyrs">
-    <img src="https://img.shields.io/badge/Instagram-@chaterineeklesia-c9a0a0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b07d7d" />
+  <a href="https://open.spotify.com/user/31se3abf2qetxkr7f2peqclh5ewq?si=6d288d5ac9094a6e">
+    <img src="https://img.shields.io/badge/Spotify-'cat-c9a0a0?style=for-the-badge&logo=spotify&logoColor=white&labelColor=b07d7d" />
   </a>
 </p>
 
