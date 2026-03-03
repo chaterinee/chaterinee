@@ -125,8 +125,9 @@
 </p>
 
 <picture>
-  <img alt="pacman contribution graph" 
-  source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
@@ -136,9 +137,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=120&section=footer&fontColor=f5e6d3" />
 </p>
-
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
-</picture>
