@@ -1,16 +1,158 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=200&section=header&text=Chaterine%20Eklesia&fontSize=52&fontColor=f5e6d3&fontAlignY=38&desc=Computer%20Science%20%7C%20HCI%20%7C%20UI%2FUX%20%7C%20Web%20Development&descSize=16&descColor=d4a5a5&descAlignY=58&animation=fadeIn" />
+</p>
 
-<!--
-**chaterinee/chaterinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=b07d7d&center=true&vCenter=true&width=600&lines=Calm+%C2%B7+Detail-Oriented+%C2%B7+Strategic+Thinker;Crafting+Thoughtful+Digital+Experiences;Aspiring+Woman+Leader+in+Technology" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Human--Computer%20Interaction-c9a0a0?style=flat-square&labelColor=f5eded&color=c9a0a0" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Passion-UI%2FUX%20%26%20System%20Design-b89090?style=flat-square&labelColor=f5eded&color=b89090" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Goal-Woman%20Leader%20in%20Tech-a07878?style=flat-square&labelColor=f5eded&color=a07878" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
+</p>
+
+<br/>
+
+## <p align="center">✦ &nbsp; About Me &nbsp; ✦</p>
+
+<p align="center">
+  I am a Information Technology student with a deep focus on <strong>Web Development</strong> and <strong>Web Development</strong>. I believe that great technology is not just functional — it is<br/>
+  thoughtful, accessible, and human-centered. I approach every project with precision,<br/>
+  calm confidence, and a commitment to meaningful design decisions.
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
+</p>
+
+<br/>
+
+## <p align="center">✦ &nbsp; Tech Stack &nbsp; ✦</p>
+
+<div align="center">
+
+### 👩🏻‍💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,php" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=github,vscode,mysql" />
+
+<br/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
+</p>
+
+<br/>
+
+## <p align="center">✦ &nbsp; GitHub Analytics &nbsp; ✦</p>
+
+<picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chaterineeklesia&theme=soft-green&hide_border=true&background=FDF6F0&ring=C49A9A&fire=B07D7D&currStreakLabel=9B6B6B&sideLabels=9B6B6B&dates=A08080&border_radius=12" width="60%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
+</p>
+
+<br/>
+
+## <p align="center">✦ &nbsp; Contribution &nbsp; ✦</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
+</p>
+
+<br/>
+
+## <p align="center">✦ &nbsp; Connect With Me &nbsp; ✦</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/chaterineeklesia">
+    <img src="https://img.shields.io/badge/LinkedIn-Chaterine%20Eklesia-c9a0a0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=b07d7d" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/chaterineeklesia">
+    <img src="https://img.shields.io/badge/Instagram-@chaterineeklesia-c9a0a0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b07d7d" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=19,20&height=2&section=header" width="60%"/>
+</p>
+
+<picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
+</picture>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chaterinee.chaterinee&"  />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=120&section=footer&fontColor=f5e6d3" />
+</p>
+
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaterinee/chaterinee/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+
+###
